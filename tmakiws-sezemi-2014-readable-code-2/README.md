@@ -1,1 +1,1 @@
-Ruby
+$ruby recipe.rb
